@@ -20,3 +20,8 @@ machine_learning &amp; deep_learning project &amp; python utility programing
   - deep learning scoring server  
   - flask, python
   - Not finished yet
+
+- 2021-03-18: [amazing ASCII !!](https://github.com/Longseabear/deep-ASCII-gif)
+  - GIF to ascii gif
+  - python, imageio
+  - I made it because i was bored.
