@@ -25,3 +25,7 @@ machine_learning &amp; deep_learning project &amp; python utility programing
   - GIF to ascii gif
   - python, imageio
   - I made it because i was bored.
+
+- 2021-03-22: [why apdative de-normalization working?](https://github.com/Longseabear/leaps-denormalized_visualization_test)
+  - simple adaptive denormalization analysis
+  - MATLAB
